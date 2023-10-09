@@ -1,5 +1,7 @@
 # LeetCode SQL Practice :floppy_disk:   [leetCode Problem](https://leetcode.com/studyplan/top-sql-50/)
 
+## All Problem Solved [Check here](https://www.linkedin.com/posts/vinay-kumar860964_sql-interviewprep-dataanalysis-activity-7117196870820491264-DMj8?utm_source=share&utm_medium=member_desktop)
+
 📚 This repository contains solutions to SQL problems on LeetCode. These problems cover a range of SQL concepts and are a great way to practice your SQL skills. Whether you are preparing for a SQL interview or just want to improve your SQL abilities, this collection of problems is a valuable resource. 💻
 
 ## Problem List :clipboard:
